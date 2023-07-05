@@ -1,0 +1,19 @@
+{
+    "title": "Sugestão",
+    "color": "client.config.embedMainColor",
+    "description": "",
+    "timestamp": "",
+    "author": {
+        "name": ""
+    },
+    "image": {
+        "url": ""
+    },
+    "thumbnail": {
+        "url": ""
+    },
+    "footer": {
+        "text": ""
+    },
+    "fields": []
+}
